@@ -1,4 +1,6 @@
 # Fundamental-Tool
-
-1) Analyze balance sheet and cash flow to assess ability to survive (ongoing)
-2) Analyze income statement to assess company's ability to generate income/revenue going forward
+Prototype: Jupyter notebook use quandl api (have to have access for sharader fundamental data)
+Use:
+1) Define industry and stock names within the industry
+2) Get fundamanetal data using get_data(industry)
+3) Apply cross sectional or time serie analysis on metrics concerning debt and profitability 
